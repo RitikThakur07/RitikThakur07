@@ -1,5 +1,4 @@
-# 
-    👋 Hi, I'm Ritik Thakur
+ ###         <p align="center" > 👋 Hi, I'm Ritik Thakur </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Python+Backend+Developer;Full+Stack+Developer+(React+%2B+FastAPI);Building+Scalable+and+Secure+Applications" />
